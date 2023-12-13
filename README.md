@@ -1,4 +1,4 @@
-### Hi there 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Wassup niggas!+👋;I'm+Felix+Jobi)](https://git.io/typing-svg)
 
 
 <div align="left">
