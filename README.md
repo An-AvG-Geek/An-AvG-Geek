@@ -7,6 +7,10 @@
 
 </div>
 
+
+
+<br>
+<p align="left"> <a href="https://github.com/manuemmanuel"><img src="https://github-profile-trophy.vercel.app/?username=manuemmanuel&theme=nord" alt="manuemmanuel" /></a> </p>
 <br>
 <hr>
 <div align="center">
