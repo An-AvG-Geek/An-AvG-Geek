@@ -6,7 +6,7 @@
   <img src="https://streak-stats.demolab.com?user=An-AvG-Geek&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
 
 </div>
-###
+
 <br>
 <hr>
 <div align="center">
