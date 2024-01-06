@@ -32,22 +32,6 @@
 </p>
 
 <img src="assests/borderseperator.gif">
-  <h3 align="center">Connect With Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/felix-jobi-b878b425a/" target="_blank">
-    <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://profile-summary-for-github.herokuapp.com/user/An-AvG-Geek" target="_blank">
-    <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
-  </a> &nbsp;&nbsp;
-  
-  <a href="mailto:felixjobi1971@gmail.com" target="_blank">
-    <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
-  </a> &nbsp;&nbsp;
-
-  
-</p> 
 
 
 
