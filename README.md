@@ -1,5 +1,5 @@
 
 
-<img title="An-AvG-Geek" alt="README" src="https://media.giphy.com/media/RgZFvGuI4OxLjuSvRF/giphy.gif" width="1000">
+<img title="An-AvG-Geek" alt="README" src="https://media.giphy.com/media/RgZFvGuI4OxLjuSvRF/giphy.gif" >
 
 
