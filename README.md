@@ -1,6 +1,6 @@
 
 
-<img title="An-AvG-Geek" alt="README" src="https://media.giphy.com/media//RgZFvGuI4OxLjuSvRF/giphy.gif">
+<img title="An-AvG-Geek" alt="README" src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif">
 
 3osxY9kuM2NGUfvThe
 
