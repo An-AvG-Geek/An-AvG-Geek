@@ -13,7 +13,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=An-AvG-Geek&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
 
    <p>
-    <a href="https://www.codewars.com/users/HyunCafe">
+    <a 
       <img src="https://github.r2v.ch/codewars?user=An-AvG-Geek&top_languages=true&theme=midnight_blue" height="200" alt="codewar stats" />
     </a>
   </p>
